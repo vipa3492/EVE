@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EVE PoC</string>
+    <string name="hello_world">Welcome to our Smart Lock App!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <string name="lock">Lock</string>
+    <string name="unlock">Unlock</string>
+    <string name="description">Picture of lock</string>
+    <string name="title_activity_arm_main">ArmMain</string>
+</resources>
